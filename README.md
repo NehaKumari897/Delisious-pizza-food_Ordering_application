@@ -1,1 +1,3 @@
-# BiteDream-food_delivery_application
+# FreshDash-food_delivery_application
+
+Vite+React
